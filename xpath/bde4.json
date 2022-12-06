@@ -1,6 +1,8 @@
 {
   "ua": "",
   "homeUrl": "https://www.mp4er.cc",
+  //"homeUrl": "https://www.bde4.icu",
+  //启动最新域名 www.btbdys.com，备用域名 bde4.icu，永久地址发布页：bdys.me(建议收藏) 
   "decodeTk": "填上猫大解密接口的口令，注意保密",
   "cateManual": {
     "全部": "*",
